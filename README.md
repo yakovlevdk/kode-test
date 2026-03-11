@@ -1,5 +1,7 @@
 # KODE — Тестовое задание
 
+ссылка на деплой https://yakovlevdk.github.io/kode-test/
+
 **ФИО:** Яковлев Денис Константинович
 тг @dkyakovlev
 
